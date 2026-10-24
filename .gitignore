@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+backend/venv/
+venv/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+*.env
+
+# Build Artifacts
+frontend/dist/
+dist/
+build/
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Screenshots & Media
+*.png
+*.jpg
+*.jpeg
+Screenshot*
+
+# System Files
+.DS_Store
+Thumbs.db
+*.log
